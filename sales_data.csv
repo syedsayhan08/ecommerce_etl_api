@@ -1,0 +1,1001 @@
+order_id,product,category,quantity,price,date
+1,Keyboard,Electronics,1,30,2024-10-19
+2,Notebook,Stationery,2,5,2024-08-11
+3,Keyboard,Electronics,5,30,2024-07-15
+4,Headphones,Electronics,4,80,2024-06-17
+5,Mouse,Electronics,1,20,2024-09-20
+6,Notebook,Stationery,5,5,2025-04-05
+7,Mouse,Electronics,5,20,2024-09-10
+8,Water Bottle,Accessories,4,10,2024-09-21
+9,Desk Lamp,Furniture,5,35,2024-10-21
+10,Mouse,Electronics,2,20,2025-05-24
+11,Charger,Electronics,3,25,2024-10-21
+12,Monitor,Electronics,2,150,2024-11-20
+13,Keyboard,Electronics,1,30,2024-12-12
+14,Keyboard,Electronics,3,30,2024-11-24
+15,Headphones,Electronics,3,80,2024-06-23
+16,Desk Lamp,Furniture,5,35,2024-08-03
+17,Charger,Electronics,1,25,2025-03-10
+18,Pen,Stationery,5,2,2024-12-03
+19,Headphones,Electronics,2,80,2025-05-27
+20,Keyboard,Electronics,1,30,2025-05-05
+21,Notebook,Stationery,3,5,2024-07-11
+22,Notebook,Stationery,1,5,2024-12-12
+23,Pen,Stationery,4,2,2025-04-22
+24,Backpack,Accessories,2,45,2024-12-07
+25,Backpack,Accessories,2,45,2025-05-10
+26,Pen,Stationery,1,2,2025-04-08
+27,Monitor,Electronics,5,150,2024-10-04
+28,Monitor,Electronics,4,150,2024-12-12
+29,Pen,Stationery,5,2,2024-09-21
+30,Backpack,Accessories,1,45,2024-09-26
+31,Mouse,Electronics,3,20,2024-12-23
+32,Pen,Stationery,1,2,2024-09-17
+33,Headphones,Electronics,3,80,2024-09-17
+34,Desk Lamp,Furniture,4,35,2025-04-26
+35,Desk Lamp,Furniture,2,35,2024-10-14
+36,Monitor,Electronics,2,150,2025-03-15
+37,Water Bottle,Accessories,3,10,2025-03-27
+38,Charger,Electronics,5,25,2024-12-22
+39,Backpack,Accessories,2,45,2024-08-10
+40,Water Bottle,Accessories,4,10,2024-07-17
+41,Mouse,Electronics,1,20,2024-08-18
+42,Monitor,Electronics,4,150,2025-04-02
+43,Keyboard,Electronics,4,30,2024-12-13
+44,Headphones,Electronics,4,80,2025-02-26
+45,Pen,Stationery,5,2,2024-06-06
+46,Keyboard,Electronics,5,30,2024-10-15
+47,Backpack,Accessories,1,45,2024-10-29
+48,Charger,Electronics,2,25,2025-01-19
+49,Mouse,Electronics,3,20,2025-02-12
+50,Monitor,Electronics,5,150,2024-07-25
+51,Pen,Stationery,5,2,2025-04-08
+52,Notebook,Stationery,2,5,2024-12-09
+53,Monitor,Electronics,5,150,2025-02-27
+54,Mouse,Electronics,5,20,2024-11-13
+55,Desk Lamp,Furniture,1,35,2024-07-28
+56,Backpack,Accessories,3,45,2024-10-01
+57,Mouse,Electronics,2,20,2025-03-18
+58,Keyboard,Electronics,1,30,2025-02-04
+59,Keyboard,Electronics,5,30,2024-08-04
+60,Monitor,Electronics,4,150,2025-03-09
+61,Monitor,Electronics,3,150,2025-02-26
+62,Headphones,Electronics,4,80,2024-09-17
+63,Water Bottle,Accessories,2,10,2024-11-07
+64,Charger,Electronics,3,25,2025-01-11
+65,Water Bottle,Accessories,4,10,2024-08-01
+66,Notebook,Stationery,2,5,2024-07-03
+67,Backpack,Accessories,1,45,2025-03-29
+68,Water Bottle,Accessories,2,10,2025-03-29
+69,Notebook,Stationery,1,5,2024-07-07
+70,Mouse,Electronics,2,20,2024-07-05
+71,Mouse,Electronics,3,20,2024-07-07
+72,Water Bottle,Accessories,2,10,2024-10-21
+73,Desk Lamp,Furniture,2,35,2025-03-04
+74,Monitor,Electronics,5,150,2025-03-23
+75,Desk Lamp,Furniture,2,35,2025-01-29
+76,Charger,Electronics,2,25,2024-07-19
+77,Keyboard,Electronics,4,30,2024-11-29
+78,Charger,Electronics,4,25,2025-01-26
+79,Mouse,Electronics,1,20,2024-07-02
+80,Charger,Electronics,3,25,2024-07-26
+81,Notebook,Stationery,2,5,2024-09-06
+82,Water Bottle,Accessories,4,10,2024-08-11
+83,Charger,Electronics,2,25,2024-10-21
+84,Desk Lamp,Furniture,2,35,2024-07-09
+85,Desk Lamp,Furniture,5,35,2024-07-21
+86,Mouse,Electronics,5,20,2024-06-08
+87,Keyboard,Electronics,2,30,2024-08-25
+88,Charger,Electronics,4,25,2025-02-02
+89,Notebook,Stationery,4,5,2024-07-01
+90,Monitor,Electronics,4,150,2024-06-02
+91,Charger,Electronics,3,25,2025-01-19
+92,Pen,Stationery,4,2,2025-05-23
+93,Water Bottle,Accessories,4,10,2024-08-19
+94,Notebook,Stationery,3,5,2024-09-20
+95,Mouse,Electronics,5,20,2025-03-05
+96,Mouse,Electronics,3,20,2024-06-30
+97,Mouse,Electronics,5,20,2025-01-31
+98,Water Bottle,Accessories,5,10,2024-08-20
+99,Mouse,Electronics,5,20,2024-07-12
+100,Monitor,Electronics,1,150,2025-04-01
+101,Keyboard,Electronics,2,30,2024-12-24
+102,Keyboard,Electronics,5,30,2024-10-05
+103,Headphones,Electronics,5,80,2024-06-21
+104,Headphones,Electronics,1,80,2025-01-01
+105,Headphones,Electronics,5,80,2025-02-23
+106,Backpack,Accessories,3,45,2024-09-13
+107,Backpack,Accessories,2,45,2024-10-14
+108,Charger,Electronics,2,25,2025-05-10
+109,Pen,Stationery,4,2,2024-11-09
+110,Keyboard,Electronics,1,30,2025-01-21
+111,Headphones,Electronics,5,80,2024-07-22
+112,Keyboard,Electronics,5,30,2024-09-18
+113,Water Bottle,Accessories,3,10,2024-08-07
+114,Backpack,Accessories,1,45,2024-10-04
+115,Backpack,Accessories,3,45,2024-08-20
+116,Desk Lamp,Furniture,5,35,2025-05-27
+117,Pen,Stationery,5,2,2025-05-01
+118,Water Bottle,Accessories,1,10,2025-05-08
+119,Water Bottle,Accessories,3,10,2025-05-06
+120,Keyboard,Electronics,2,30,2024-10-14
+121,Keyboard,Electronics,1,30,2025-03-11
+122,Monitor,Electronics,3,150,2024-10-23
+123,Headphones,Electronics,2,80,2024-11-23
+124,Notebook,Stationery,3,5,2025-02-14
+125,Desk Lamp,Furniture,3,35,2024-06-27
+126,Keyboard,Electronics,4,30,2024-10-20
+127,Mouse,Electronics,1,20,2024-11-18
+128,Monitor,Electronics,3,150,2024-08-22
+129,Desk Lamp,Furniture,5,35,2025-05-28
+130,Charger,Electronics,5,25,2024-06-05
+131,Keyboard,Electronics,1,30,2025-05-20
+132,Monitor,Electronics,5,150,2024-06-19
+133,Backpack,Accessories,5,45,2025-03-10
+134,Monitor,Electronics,4,150,2024-08-05
+135,Mouse,Electronics,3,20,2024-12-04
+136,Mouse,Electronics,3,20,2024-09-16
+137,Notebook,Stationery,1,5,2024-11-29
+138,Water Bottle,Accessories,4,10,2025-04-14
+139,Monitor,Electronics,2,150,2024-08-23
+140,Monitor,Electronics,4,150,2024-06-13
+141,Monitor,Electronics,3,150,2024-12-28
+142,Notebook,Stationery,3,5,2024-08-21
+143,Keyboard,Electronics,4,30,2024-06-20
+144,Desk Lamp,Furniture,2,35,2024-09-11
+145,Desk Lamp,Furniture,3,35,2024-11-04
+146,Notebook,Stationery,2,5,2024-06-13
+147,Notebook,Stationery,4,5,2024-11-16
+148,Pen,Stationery,1,2,2024-10-21
+149,Backpack,Accessories,5,45,2024-12-22
+150,Water Bottle,Accessories,3,10,2024-06-15
+151,Keyboard,Electronics,3,30,2024-08-31
+152,Headphones,Electronics,3,80,2024-06-20
+153,Keyboard,Electronics,5,30,2025-01-09
+154,Backpack,Accessories,3,45,2025-01-10
+155,Headphones,Electronics,5,80,2024-07-30
+156,Charger,Electronics,5,25,2024-09-06
+157,Pen,Stationery,1,2,2025-05-29
+158,Charger,Electronics,1,25,2025-02-22
+159,Water Bottle,Accessories,2,10,2024-12-04
+160,Charger,Electronics,1,25,2025-05-07
+161,Backpack,Accessories,5,45,2024-11-08
+162,Keyboard,Electronics,3,30,2025-02-15
+163,Pen,Stationery,4,2,2024-11-15
+164,Charger,Electronics,3,25,2025-03-11
+165,Monitor,Electronics,2,150,2025-01-02
+166,Charger,Electronics,2,25,2025-04-12
+167,Headphones,Electronics,3,80,2024-12-25
+168,Water Bottle,Accessories,1,10,2024-11-03
+169,Pen,Stationery,2,2,2025-01-07
+170,Headphones,Electronics,5,80,2025-05-02
+171,Backpack,Accessories,4,45,2025-01-13
+172,Desk Lamp,Furniture,2,35,2025-02-17
+173,Desk Lamp,Furniture,2,35,2025-05-04
+174,Keyboard,Electronics,3,30,2025-02-19
+175,Headphones,Electronics,3,80,2024-07-18
+176,Notebook,Stationery,3,5,2024-09-24
+177,Notebook,Stationery,2,5,2024-06-13
+178,Mouse,Electronics,2,20,2025-01-30
+179,Headphones,Electronics,1,80,2025-01-20
+180,Charger,Electronics,5,25,2024-09-08
+181,Charger,Electronics,4,25,2024-12-22
+182,Notebook,Stationery,2,5,2025-05-02
+183,Mouse,Electronics,1,20,2025-01-04
+184,Notebook,Stationery,2,5,2025-05-23
+185,Water Bottle,Accessories,4,10,2024-06-26
+186,Water Bottle,Accessories,2,10,2024-08-02
+187,Desk Lamp,Furniture,2,35,2025-01-24
+188,Water Bottle,Accessories,5,10,2025-04-01
+189,Backpack,Accessories,4,45,2025-04-10
+190,Water Bottle,Accessories,4,10,2025-03-08
+191,Desk Lamp,Furniture,2,35,2025-01-30
+192,Desk Lamp,Furniture,3,35,2024-10-05
+193,Pen,Stationery,5,2,2025-02-04
+194,Notebook,Stationery,3,5,2025-01-12
+195,Keyboard,Electronics,3,30,2024-09-29
+196,Pen,Stationery,3,2,2024-11-11
+197,Water Bottle,Accessories,1,10,2024-08-10
+198,Monitor,Electronics,2,150,2024-12-14
+199,Monitor,Electronics,2,150,2024-07-03
+200,Charger,Electronics,4,25,2024-11-17
+201,Water Bottle,Accessories,4,10,2024-12-30
+202,Mouse,Electronics,2,20,2025-01-02
+203,Charger,Electronics,5,25,2025-05-23
+204,Mouse,Electronics,5,20,2024-12-12
+205,Desk Lamp,Furniture,1,35,2024-11-28
+206,Pen,Stationery,4,2,2025-01-01
+207,Water Bottle,Accessories,5,10,2025-04-05
+208,Notebook,Stationery,4,5,2024-09-21
+209,Pen,Stationery,4,2,2025-02-04
+210,Mouse,Electronics,4,20,2024-11-20
+211,Charger,Electronics,2,25,2025-01-26
+212,Monitor,Electronics,5,150,2025-03-01
+213,Mouse,Electronics,4,20,2025-03-31
+214,Headphones,Electronics,1,80,2024-07-13
+215,Charger,Electronics,2,25,2025-01-23
+216,Monitor,Electronics,1,150,2024-10-12
+217,Charger,Electronics,3,25,2024-09-17
+218,Desk Lamp,Furniture,3,35,2024-11-20
+219,Charger,Electronics,3,25,2025-01-02
+220,Pen,Stationery,1,2,2025-01-27
+221,Mouse,Electronics,5,20,2024-06-27
+222,Backpack,Accessories,2,45,2025-04-29
+223,Keyboard,Electronics,1,30,2024-06-16
+224,Notebook,Stationery,2,5,2024-06-11
+225,Headphones,Electronics,2,80,2024-10-01
+226,Monitor,Electronics,4,150,2025-05-09
+227,Keyboard,Electronics,5,30,2024-09-20
+228,Desk Lamp,Furniture,3,35,2024-12-06
+229,Monitor,Electronics,5,150,2025-04-07
+230,Keyboard,Electronics,2,30,2024-11-07
+231,Keyboard,Electronics,5,30,2024-06-14
+232,Pen,Stationery,5,2,2025-05-13
+233,Charger,Electronics,4,25,2024-09-10
+234,Keyboard,Electronics,5,30,2025-05-20
+235,Notebook,Stationery,1,5,2025-05-23
+236,Pen,Stationery,5,2,2024-08-01
+237,Headphones,Electronics,1,80,2024-11-25
+238,Water Bottle,Accessories,4,10,2025-05-05
+239,Backpack,Accessories,1,45,2025-02-15
+240,Backpack,Accessories,1,45,2025-01-02
+241,Desk Lamp,Furniture,1,35,2025-01-08
+242,Backpack,Accessories,4,45,2025-05-29
+243,Monitor,Electronics,4,150,2024-08-30
+244,Water Bottle,Accessories,3,10,2025-04-12
+245,Water Bottle,Accessories,4,10,2025-01-25
+246,Charger,Electronics,5,25,2024-10-16
+247,Backpack,Accessories,2,45,2024-07-15
+248,Pen,Stationery,4,2,2024-10-03
+249,Desk Lamp,Furniture,5,35,2025-04-09
+250,Charger,Electronics,3,25,2024-06-15
+251,Desk Lamp,Furniture,3,35,2024-09-02
+252,Desk Lamp,Furniture,2,35,2024-11-29
+253,Pen,Stationery,3,2,2024-10-22
+254,Headphones,Electronics,3,80,2025-03-12
+255,Mouse,Electronics,5,20,2024-09-06
+256,Keyboard,Electronics,2,30,2024-12-26
+257,Desk Lamp,Furniture,5,35,2024-10-02
+258,Desk Lamp,Furniture,4,35,2025-01-16
+259,Mouse,Electronics,1,20,2024-10-29
+260,Notebook,Stationery,4,5,2025-05-21
+261,Notebook,Stationery,3,5,2025-05-06
+262,Headphones,Electronics,3,80,2025-01-29
+263,Water Bottle,Accessories,5,10,2024-11-24
+264,Charger,Electronics,5,25,2024-11-17
+265,Backpack,Accessories,4,45,2024-10-17
+266,Pen,Stationery,3,2,2024-09-27
+267,Keyboard,Electronics,2,30,2024-11-09
+268,Keyboard,Electronics,5,30,2025-05-20
+269,Monitor,Electronics,2,150,2024-09-19
+270,Desk Lamp,Furniture,3,35,2025-03-29
+271,Water Bottle,Accessories,5,10,2024-10-23
+272,Keyboard,Electronics,2,30,2024-10-30
+273,Notebook,Stationery,3,5,2024-08-31
+274,Pen,Stationery,1,2,2025-05-29
+275,Water Bottle,Accessories,2,10,2024-10-19
+276,Mouse,Electronics,1,20,2025-03-11
+277,Pen,Stationery,2,2,2025-04-23
+278,Desk Lamp,Furniture,1,35,2024-06-07
+279,Headphones,Electronics,3,80,2025-01-27
+280,Desk Lamp,Furniture,4,35,2024-11-22
+281,Monitor,Electronics,1,150,2024-10-08
+282,Desk Lamp,Furniture,1,35,2024-07-04
+283,Charger,Electronics,4,25,2024-07-08
+284,Headphones,Electronics,1,80,2024-08-17
+285,Monitor,Electronics,5,150,2024-11-03
+286,Keyboard,Electronics,2,30,2024-07-31
+287,Water Bottle,Accessories,4,10,2025-04-07
+288,Headphones,Electronics,5,80,2024-09-24
+289,Water Bottle,Accessories,4,10,2025-01-17
+290,Desk Lamp,Furniture,3,35,2025-03-29
+291,Charger,Electronics,3,25,2025-03-19
+292,Headphones,Electronics,1,80,2025-04-09
+293,Keyboard,Electronics,2,30,2025-04-17
+294,Notebook,Stationery,3,5,2025-05-05
+295,Keyboard,Electronics,2,30,2024-10-01
+296,Monitor,Electronics,5,150,2024-07-09
+297,Monitor,Electronics,1,150,2024-12-27
+298,Desk Lamp,Furniture,5,35,2025-01-27
+299,Pen,Stationery,1,2,2024-09-27
+300,Pen,Stationery,3,2,2025-05-26
+301,Desk Lamp,Furniture,1,35,2025-05-18
+302,Notebook,Stationery,3,5,2025-04-17
+303,Headphones,Electronics,2,80,2025-01-04
+304,Keyboard,Electronics,5,30,2024-09-24
+305,Monitor,Electronics,3,150,2024-08-12
+306,Keyboard,Electronics,1,30,2024-08-24
+307,Pen,Stationery,5,2,2025-03-19
+308,Pen,Stationery,4,2,2024-08-03
+309,Desk Lamp,Furniture,3,35,2025-05-25
+310,Charger,Electronics,3,25,2025-02-12
+311,Water Bottle,Accessories,4,10,2025-01-11
+312,Keyboard,Electronics,5,30,2024-06-21
+313,Charger,Electronics,3,25,2025-04-06
+314,Pen,Stationery,1,2,2024-07-17
+315,Notebook,Stationery,5,5,2025-03-28
+316,Mouse,Electronics,3,20,2025-03-23
+317,Mouse,Electronics,2,20,2025-01-27
+318,Water Bottle,Accessories,4,10,2024-10-21
+319,Monitor,Electronics,5,150,2025-01-10
+320,Desk Lamp,Furniture,1,35,2025-01-27
+321,Backpack,Accessories,4,45,2024-11-18
+322,Backpack,Accessories,1,45,2024-08-22
+323,Backpack,Accessories,4,45,2025-05-22
+324,Desk Lamp,Furniture,3,35,2025-05-06
+325,Charger,Electronics,5,25,2024-06-19
+326,Desk Lamp,Furniture,1,35,2024-11-09
+327,Pen,Stationery,3,2,2024-07-30
+328,Charger,Electronics,5,25,2024-06-01
+329,Water Bottle,Accessories,4,10,2024-12-29
+330,Mouse,Electronics,2,20,2025-02-21
+331,Backpack,Accessories,5,45,2025-02-11
+332,Desk Lamp,Furniture,1,35,2024-09-13
+333,Pen,Stationery,5,2,2024-08-07
+334,Pen,Stationery,4,2,2025-05-24
+335,Desk Lamp,Furniture,1,35,2024-06-15
+336,Headphones,Electronics,2,80,2025-05-30
+337,Monitor,Electronics,3,150,2025-03-10
+338,Mouse,Electronics,5,20,2024-12-26
+339,Keyboard,Electronics,2,30,2024-07-29
+340,Desk Lamp,Furniture,1,35,2025-04-28
+341,Monitor,Electronics,4,150,2024-10-28
+342,Water Bottle,Accessories,3,10,2024-12-30
+343,Desk Lamp,Furniture,4,35,2024-10-03
+344,Desk Lamp,Furniture,5,35,2024-08-14
+345,Charger,Electronics,2,25,2025-04-03
+346,Water Bottle,Accessories,2,10,2024-07-06
+347,Pen,Stationery,4,2,2024-11-22
+348,Water Bottle,Accessories,3,10,2024-06-02
+349,Pen,Stationery,3,2,2025-03-28
+350,Headphones,Electronics,4,80,2024-08-16
+351,Desk Lamp,Furniture,5,35,2025-02-03
+352,Backpack,Accessories,3,45,2025-03-10
+353,Water Bottle,Accessories,4,10,2025-01-20
+354,Backpack,Accessories,2,45,2025-05-24
+355,Notebook,Stationery,5,5,2024-12-14
+356,Notebook,Stationery,4,5,2024-06-23
+357,Backpack,Accessories,4,45,2025-05-28
+358,Charger,Electronics,4,25,2025-05-06
+359,Monitor,Electronics,4,150,2024-06-19
+360,Monitor,Electronics,5,150,2025-03-30
+361,Backpack,Accessories,1,45,2025-01-12
+362,Keyboard,Electronics,5,30,2025-01-20
+363,Mouse,Electronics,2,20,2024-12-27
+364,Monitor,Electronics,1,150,2025-01-27
+365,Pen,Stationery,3,2,2025-04-16
+366,Charger,Electronics,1,25,2024-11-16
+367,Water Bottle,Accessories,4,10,2024-11-10
+368,Desk Lamp,Furniture,5,35,2024-06-19
+369,Headphones,Electronics,1,80,2024-09-29
+370,Pen,Stationery,2,2,2024-07-17
+371,Charger,Electronics,1,25,2025-04-21
+372,Keyboard,Electronics,4,30,2024-08-25
+373,Pen,Stationery,1,2,2024-06-24
+374,Backpack,Accessories,1,45,2024-10-29
+375,Backpack,Accessories,3,45,2025-01-07
+376,Monitor,Electronics,2,150,2025-02-27
+377,Charger,Electronics,5,25,2025-05-16
+378,Monitor,Electronics,2,150,2024-08-29
+379,Keyboard,Electronics,5,30,2024-12-13
+380,Headphones,Electronics,2,80,2025-02-10
+381,Headphones,Electronics,2,80,2024-09-27
+382,Desk Lamp,Furniture,3,35,2025-01-22
+383,Pen,Stationery,1,2,2025-01-25
+384,Pen,Stationery,5,2,2024-08-20
+385,Keyboard,Electronics,4,30,2024-11-24
+386,Headphones,Electronics,3,80,2025-04-24
+387,Charger,Electronics,3,25,2025-01-20
+388,Pen,Stationery,2,2,2024-12-14
+389,Desk Lamp,Furniture,1,35,2024-09-30
+390,Charger,Electronics,5,25,2024-12-01
+391,Headphones,Electronics,3,80,2025-05-25
+392,Pen,Stationery,1,2,2025-05-04
+393,Charger,Electronics,3,25,2024-06-05
+394,Headphones,Electronics,1,80,2025-04-07
+395,Desk Lamp,Furniture,3,35,2024-09-26
+396,Headphones,Electronics,3,80,2024-09-21
+397,Notebook,Stationery,5,5,2024-10-07
+398,Monitor,Electronics,1,150,2025-04-18
+399,Mouse,Electronics,3,20,2025-01-12
+400,Mouse,Electronics,5,20,2024-12-04
+401,Monitor,Electronics,1,150,2024-10-30
+402,Backpack,Accessories,4,45,2024-08-29
+403,Notebook,Stationery,2,5,2025-03-04
+404,Backpack,Accessories,5,45,2025-02-12
+405,Pen,Stationery,2,2,2024-10-10
+406,Desk Lamp,Furniture,3,35,2024-11-21
+407,Keyboard,Electronics,4,30,2024-07-09
+408,Monitor,Electronics,2,150,2025-05-13
+409,Charger,Electronics,5,25,2024-12-05
+410,Keyboard,Electronics,4,30,2024-06-08
+411,Pen,Stationery,5,2,2024-08-03
+412,Desk Lamp,Furniture,3,35,2025-05-11
+413,Pen,Stationery,5,2,2024-12-13
+414,Backpack,Accessories,1,45,2025-05-12
+415,Notebook,Stationery,4,5,2024-06-13
+416,Headphones,Electronics,5,80,2024-11-15
+417,Headphones,Electronics,2,80,2025-04-28
+418,Keyboard,Electronics,4,30,2025-05-25
+419,Pen,Stationery,4,2,2024-07-30
+420,Monitor,Electronics,1,150,2024-06-20
+421,Pen,Stationery,4,2,2024-07-30
+422,Keyboard,Electronics,2,30,2025-03-03
+423,Monitor,Electronics,4,150,2025-01-19
+424,Backpack,Accessories,5,45,2025-01-01
+425,Headphones,Electronics,2,80,2024-12-30
+426,Keyboard,Electronics,4,30,2025-04-12
+427,Charger,Electronics,3,25,2024-06-17
+428,Backpack,Accessories,2,45,2025-01-14
+429,Desk Lamp,Furniture,2,35,2024-12-03
+430,Keyboard,Electronics,3,30,2025-03-06
+431,Backpack,Accessories,1,45,2024-12-21
+432,Pen,Stationery,2,2,2024-08-02
+433,Desk Lamp,Furniture,1,35,2025-05-06
+434,Notebook,Stationery,5,5,2024-06-11
+435,Mouse,Electronics,3,20,2024-10-03
+436,Monitor,Electronics,5,150,2024-09-14
+437,Keyboard,Electronics,5,30,2024-09-15
+438,Headphones,Electronics,2,80,2024-09-28
+439,Backpack,Accessories,2,45,2025-04-02
+440,Mouse,Electronics,3,20,2024-08-14
+441,Monitor,Electronics,5,150,2024-10-07
+442,Monitor,Electronics,1,150,2025-05-05
+443,Mouse,Electronics,2,20,2024-06-08
+444,Backpack,Accessories,2,45,2025-03-29
+445,Backpack,Accessories,1,45,2024-08-29
+446,Pen,Stationery,1,2,2024-08-04
+447,Charger,Electronics,5,25,2024-07-29
+448,Keyboard,Electronics,4,30,2025-01-16
+449,Backpack,Accessories,5,45,2025-03-31
+450,Keyboard,Electronics,4,30,2025-02-13
+451,Notebook,Stationery,5,5,2024-06-23
+452,Water Bottle,Accessories,3,10,2025-01-21
+453,Mouse,Electronics,1,20,2025-02-01
+454,Charger,Electronics,4,25,2025-05-18
+455,Keyboard,Electronics,4,30,2025-05-31
+456,Desk Lamp,Furniture,1,35,2024-07-12
+457,Backpack,Accessories,5,45,2024-08-15
+458,Keyboard,Electronics,2,30,2024-10-19
+459,Headphones,Electronics,5,80,2025-03-08
+460,Backpack,Accessories,4,45,2025-04-02
+461,Water Bottle,Accessories,3,10,2025-01-19
+462,Water Bottle,Accessories,5,10,2025-01-07
+463,Keyboard,Electronics,1,30,2025-05-02
+464,Water Bottle,Accessories,2,10,2025-01-07
+465,Desk Lamp,Furniture,2,35,2024-12-29
+466,Backpack,Accessories,4,45,2024-12-22
+467,Charger,Electronics,1,25,2024-11-08
+468,Charger,Electronics,3,25,2025-05-07
+469,Pen,Stationery,3,2,2024-08-18
+470,Desk Lamp,Furniture,1,35,2024-07-17
+471,Keyboard,Electronics,1,30,2025-01-08
+472,Keyboard,Electronics,3,30,2024-08-06
+473,Water Bottle,Accessories,1,10,2025-03-28
+474,Water Bottle,Accessories,5,10,2024-11-16
+475,Keyboard,Electronics,4,30,2024-11-29
+476,Charger,Electronics,1,25,2024-10-26
+477,Headphones,Electronics,3,80,2024-11-28
+478,Keyboard,Electronics,5,30,2025-02-15
+479,Notebook,Stationery,2,5,2025-05-03
+480,Desk Lamp,Furniture,2,35,2024-07-26
+481,Backpack,Accessories,5,45,2024-12-06
+482,Keyboard,Electronics,3,30,2025-03-21
+483,Notebook,Stationery,4,5,2025-03-15
+484,Headphones,Electronics,5,80,2025-05-12
+485,Water Bottle,Accessories,1,10,2025-04-08
+486,Pen,Stationery,1,2,2024-09-01
+487,Pen,Stationery,3,2,2024-11-21
+488,Backpack,Accessories,1,45,2024-09-01
+489,Monitor,Electronics,5,150,2025-05-03
+490,Charger,Electronics,1,25,2024-08-12
+491,Mouse,Electronics,1,20,2025-02-27
+492,Notebook,Stationery,4,5,2025-01-01
+493,Desk Lamp,Furniture,3,35,2024-08-20
+494,Backpack,Accessories,3,45,2024-11-14
+495,Headphones,Electronics,5,80,2024-07-14
+496,Mouse,Electronics,2,20,2024-08-20
+497,Headphones,Electronics,1,80,2025-05-12
+498,Keyboard,Electronics,3,30,2025-01-13
+499,Charger,Electronics,4,25,2025-04-07
+500,Desk Lamp,Furniture,4,35,2024-10-18
+501,Notebook,Stationery,5,5,2024-07-29
+502,Backpack,Accessories,4,45,2024-07-27
+503,Pen,Stationery,5,2,2025-02-05
+504,Water Bottle,Accessories,3,10,2024-06-24
+505,Notebook,Stationery,4,5,2025-04-03
+506,Mouse,Electronics,1,20,2024-09-13
+507,Pen,Stationery,2,2,2024-08-10
+508,Pen,Stationery,3,2,2024-11-15
+509,Keyboard,Electronics,1,30,2025-02-10
+510,Charger,Electronics,2,25,2024-08-06
+511,Charger,Electronics,5,25,2025-05-27
+512,Notebook,Stationery,5,5,2025-03-14
+513,Backpack,Accessories,1,45,2024-12-21
+514,Mouse,Electronics,4,20,2024-06-10
+515,Desk Lamp,Furniture,1,35,2024-11-08
+516,Headphones,Electronics,4,80,2025-03-21
+517,Charger,Electronics,4,25,2024-10-27
+518,Keyboard,Electronics,4,30,2024-06-11
+519,Backpack,Accessories,2,45,2025-04-13
+520,Desk Lamp,Furniture,3,35,2024-07-16
+521,Charger,Electronics,1,25,2024-10-03
+522,Charger,Electronics,5,25,2024-12-23
+523,Water Bottle,Accessories,1,10,2024-12-20
+524,Pen,Stationery,3,2,2024-09-22
+525,Backpack,Accessories,2,45,2024-07-10
+526,Water Bottle,Accessories,1,10,2025-02-27
+527,Water Bottle,Accessories,2,10,2024-11-26
+528,Backpack,Accessories,2,45,2024-09-29
+529,Keyboard,Electronics,2,30,2024-10-10
+530,Notebook,Stationery,2,5,2025-04-05
+531,Monitor,Electronics,1,150,2024-08-30
+532,Desk Lamp,Furniture,4,35,2025-03-16
+533,Headphones,Electronics,4,80,2025-05-15
+534,Headphones,Electronics,5,80,2024-11-13
+535,Backpack,Accessories,2,45,2025-01-12
+536,Keyboard,Electronics,4,30,2025-01-13
+537,Pen,Stationery,3,2,2025-03-30
+538,Mouse,Electronics,3,20,2025-02-15
+539,Keyboard,Electronics,3,30,2025-01-23
+540,Desk Lamp,Furniture,1,35,2024-06-30
+541,Backpack,Accessories,3,45,2024-07-10
+542,Keyboard,Electronics,5,30,2025-04-01
+543,Water Bottle,Accessories,4,10,2025-01-23
+544,Headphones,Electronics,5,80,2024-06-22
+545,Desk Lamp,Furniture,5,35,2025-04-30
+546,Notebook,Stationery,3,5,2025-04-06
+547,Desk Lamp,Furniture,5,35,2024-08-17
+548,Mouse,Electronics,4,20,2024-07-23
+549,Backpack,Accessories,1,45,2025-02-14
+550,Monitor,Electronics,1,150,2024-10-05
+551,Desk Lamp,Furniture,4,35,2025-02-24
+552,Water Bottle,Accessories,5,10,2024-08-21
+553,Backpack,Accessories,3,45,2024-10-23
+554,Charger,Electronics,4,25,2024-11-21
+555,Headphones,Electronics,1,80,2025-04-20
+556,Backpack,Accessories,1,45,2024-11-16
+557,Keyboard,Electronics,5,30,2025-05-14
+558,Charger,Electronics,3,25,2024-10-08
+559,Headphones,Electronics,2,80,2024-11-18
+560,Keyboard,Electronics,5,30,2025-05-06
+561,Monitor,Electronics,3,150,2024-11-06
+562,Charger,Electronics,2,25,2025-04-01
+563,Keyboard,Electronics,3,30,2025-03-14
+564,Charger,Electronics,3,25,2024-08-05
+565,Water Bottle,Accessories,1,10,2025-04-27
+566,Charger,Electronics,5,25,2024-12-03
+567,Mouse,Electronics,3,20,2024-11-06
+568,Monitor,Electronics,2,150,2024-11-22
+569,Desk Lamp,Furniture,2,35,2024-09-24
+570,Monitor,Electronics,2,150,2024-07-10
+571,Pen,Stationery,1,2,2025-02-15
+572,Water Bottle,Accessories,5,10,2024-06-20
+573,Backpack,Accessories,5,45,2024-08-07
+574,Headphones,Electronics,4,80,2024-08-18
+575,Monitor,Electronics,2,150,2025-05-21
+576,Headphones,Electronics,2,80,2025-01-11
+577,Mouse,Electronics,4,20,2024-12-04
+578,Notebook,Stationery,4,5,2025-04-09
+579,Pen,Stationery,4,2,2024-09-28
+580,Water Bottle,Accessories,2,10,2024-11-06
+581,Desk Lamp,Furniture,2,35,2024-12-06
+582,Headphones,Electronics,4,80,2025-01-23
+583,Pen,Stationery,4,2,2025-02-13
+584,Water Bottle,Accessories,4,10,2024-08-22
+585,Notebook,Stationery,5,5,2024-08-10
+586,Pen,Stationery,1,2,2025-04-25
+587,Desk Lamp,Furniture,3,35,2025-03-11
+588,Keyboard,Electronics,5,30,2024-08-03
+589,Pen,Stationery,1,2,2024-08-22
+590,Pen,Stationery,4,2,2025-02-18
+591,Monitor,Electronics,4,150,2024-07-17
+592,Notebook,Stationery,4,5,2024-11-26
+593,Mouse,Electronics,4,20,2024-06-28
+594,Charger,Electronics,5,25,2024-12-09
+595,Notebook,Stationery,4,5,2024-07-12
+596,Backpack,Accessories,2,45,2024-06-15
+597,Backpack,Accessories,1,45,2025-04-29
+598,Backpack,Accessories,2,45,2024-08-10
+599,Mouse,Electronics,3,20,2025-01-28
+600,Monitor,Electronics,4,150,2025-01-16
+601,Headphones,Electronics,1,80,2024-07-11
+602,Mouse,Electronics,3,20,2024-09-19
+603,Monitor,Electronics,5,150,2025-04-08
+604,Water Bottle,Accessories,4,10,2024-07-27
+605,Pen,Stationery,2,2,2024-11-02
+606,Keyboard,Electronics,1,30,2024-10-01
+607,Charger,Electronics,5,25,2025-01-21
+608,Keyboard,Electronics,1,30,2025-02-11
+609,Headphones,Electronics,5,80,2024-06-09
+610,Water Bottle,Accessories,5,10,2024-10-02
+611,Monitor,Electronics,3,150,2025-01-06
+612,Mouse,Electronics,5,20,2024-11-28
+613,Notebook,Stationery,5,5,2024-12-31
+614,Monitor,Electronics,1,150,2025-02-24
+615,Backpack,Accessories,1,45,2025-02-25
+616,Water Bottle,Accessories,5,10,2025-02-15
+617,Water Bottle,Accessories,1,10,2024-12-17
+618,Desk Lamp,Furniture,1,35,2025-04-22
+619,Charger,Electronics,3,25,2024-10-08
+620,Mouse,Electronics,3,20,2024-07-05
+621,Backpack,Accessories,2,45,2025-05-03
+622,Keyboard,Electronics,5,30,2024-11-18
+623,Monitor,Electronics,1,150,2024-11-28
+624,Water Bottle,Accessories,3,10,2025-04-26
+625,Monitor,Electronics,4,150,2025-05-23
+626,Desk Lamp,Furniture,2,35,2024-08-09
+627,Keyboard,Electronics,4,30,2024-06-19
+628,Pen,Stationery,2,2,2024-06-23
+629,Notebook,Stationery,1,5,2024-11-09
+630,Pen,Stationery,5,2,2024-12-21
+631,Water Bottle,Accessories,4,10,2024-10-08
+632,Mouse,Electronics,2,20,2024-10-25
+633,Backpack,Accessories,1,45,2025-05-02
+634,Backpack,Accessories,3,45,2024-08-03
+635,Backpack,Accessories,4,45,2024-12-22
+636,Desk Lamp,Furniture,4,35,2024-11-21
+637,Monitor,Electronics,4,150,2025-05-21
+638,Desk Lamp,Furniture,3,35,2025-02-21
+639,Pen,Stationery,1,2,2025-01-04
+640,Keyboard,Electronics,4,30,2025-04-05
+641,Monitor,Electronics,5,150,2024-10-29
+642,Backpack,Accessories,1,45,2024-07-11
+643,Backpack,Accessories,3,45,2024-11-04
+644,Desk Lamp,Furniture,5,35,2025-01-05
+645,Monitor,Electronics,4,150,2024-11-27
+646,Desk Lamp,Furniture,1,35,2024-11-28
+647,Headphones,Electronics,4,80,2024-10-19
+648,Mouse,Electronics,1,20,2025-05-10
+649,Charger,Electronics,3,25,2025-02-18
+650,Monitor,Electronics,1,150,2024-08-13
+651,Headphones,Electronics,4,80,2024-06-18
+652,Monitor,Electronics,1,150,2024-09-29
+653,Backpack,Accessories,3,45,2024-12-14
+654,Headphones,Electronics,1,80,2025-04-06
+655,Monitor,Electronics,4,150,2024-12-07
+656,Backpack,Accessories,4,45,2024-07-10
+657,Headphones,Electronics,2,80,2025-02-27
+658,Backpack,Accessories,4,45,2024-11-08
+659,Pen,Stationery,2,2,2024-07-29
+660,Mouse,Electronics,2,20,2025-02-11
+661,Water Bottle,Accessories,4,10,2025-03-15
+662,Keyboard,Electronics,3,30,2024-10-12
+663,Desk Lamp,Furniture,2,35,2025-04-10
+664,Pen,Stationery,4,2,2024-09-11
+665,Keyboard,Electronics,2,30,2024-07-08
+666,Desk Lamp,Furniture,2,35,2025-01-14
+667,Keyboard,Electronics,3,30,2025-05-08
+668,Backpack,Accessories,1,45,2025-03-09
+669,Water Bottle,Accessories,3,10,2024-11-01
+670,Monitor,Electronics,2,150,2024-12-03
+671,Water Bottle,Accessories,2,10,2024-08-02
+672,Notebook,Stationery,2,5,2024-09-30
+673,Desk Lamp,Furniture,1,35,2024-12-02
+674,Water Bottle,Accessories,5,10,2024-12-06
+675,Desk Lamp,Furniture,5,35,2024-08-06
+676,Headphones,Electronics,1,80,2024-07-04
+677,Pen,Stationery,4,2,2025-02-01
+678,Water Bottle,Accessories,4,10,2024-12-27
+679,Headphones,Electronics,1,80,2024-08-04
+680,Backpack,Accessories,1,45,2025-01-17
+681,Desk Lamp,Furniture,5,35,2024-11-24
+682,Monitor,Electronics,5,150,2025-04-24
+683,Headphones,Electronics,2,80,2024-08-06
+684,Charger,Electronics,5,25,2024-06-29
+685,Keyboard,Electronics,5,30,2024-08-18
+686,Pen,Stationery,2,2,2024-08-22
+687,Backpack,Accessories,2,45,2024-11-25
+688,Water Bottle,Accessories,3,10,2024-07-11
+689,Pen,Stationery,2,2,2025-04-22
+690,Water Bottle,Accessories,3,10,2024-08-04
+691,Pen,Stationery,5,2,2025-03-01
+692,Keyboard,Electronics,5,30,2025-04-25
+693,Monitor,Electronics,5,150,2025-03-25
+694,Monitor,Electronics,2,150,2025-05-04
+695,Headphones,Electronics,5,80,2024-11-20
+696,Headphones,Electronics,1,80,2024-06-15
+697,Keyboard,Electronics,1,30,2025-04-25
+698,Headphones,Electronics,3,80,2025-04-30
+699,Notebook,Stationery,5,5,2024-12-31
+700,Headphones,Electronics,1,80,2025-02-10
+701,Water Bottle,Accessories,3,10,2025-04-25
+702,Pen,Stationery,4,2,2024-10-04
+703,Charger,Electronics,3,25,2025-01-19
+704,Keyboard,Electronics,1,30,2024-08-20
+705,Desk Lamp,Furniture,4,35,2025-02-03
+706,Desk Lamp,Furniture,2,35,2024-11-22
+707,Headphones,Electronics,2,80,2024-11-08
+708,Backpack,Accessories,3,45,2024-12-22
+709,Monitor,Electronics,3,150,2025-02-19
+710,Water Bottle,Accessories,1,10,2024-11-11
+711,Notebook,Stationery,4,5,2024-08-02
+712,Pen,Stationery,4,2,2024-10-05
+713,Monitor,Electronics,1,150,2024-06-26
+714,Pen,Stationery,4,2,2025-04-12
+715,Charger,Electronics,2,25,2024-08-21
+716,Backpack,Accessories,5,45,2024-11-08
+717,Notebook,Stationery,2,5,2025-02-11
+718,Water Bottle,Accessories,4,10,2025-02-11
+719,Pen,Stationery,4,2,2024-06-12
+720,Keyboard,Electronics,4,30,2025-02-14
+721,Desk Lamp,Furniture,2,35,2024-09-19
+722,Headphones,Electronics,3,80,2024-06-25
+723,Mouse,Electronics,3,20,2025-02-09
+724,Headphones,Electronics,4,80,2024-10-25
+725,Water Bottle,Accessories,1,10,2024-07-26
+726,Charger,Electronics,2,25,2024-10-14
+727,Backpack,Accessories,4,45,2024-12-05
+728,Mouse,Electronics,4,20,2024-06-27
+729,Headphones,Electronics,5,80,2024-09-08
+730,Backpack,Accessories,5,45,2024-10-26
+731,Keyboard,Electronics,4,30,2025-02-14
+732,Desk Lamp,Furniture,5,35,2024-10-22
+733,Headphones,Electronics,5,80,2024-07-31
+734,Monitor,Electronics,1,150,2024-12-19
+735,Backpack,Accessories,3,45,2025-03-13
+736,Backpack,Accessories,2,45,2024-09-10
+737,Headphones,Electronics,5,80,2024-12-23
+738,Water Bottle,Accessories,1,10,2024-06-24
+739,Mouse,Electronics,2,20,2024-11-18
+740,Desk Lamp,Furniture,5,35,2025-01-20
+741,Monitor,Electronics,5,150,2025-02-19
+742,Monitor,Electronics,3,150,2025-04-10
+743,Backpack,Accessories,2,45,2024-12-19
+744,Headphones,Electronics,3,80,2025-03-31
+745,Backpack,Accessories,5,45,2025-02-16
+746,Water Bottle,Accessories,4,10,2025-05-29
+747,Headphones,Electronics,3,80,2025-01-30
+748,Mouse,Electronics,3,20,2024-11-17
+749,Keyboard,Electronics,4,30,2025-03-26
+750,Pen,Stationery,1,2,2025-04-02
+751,Desk Lamp,Furniture,3,35,2025-05-02
+752,Headphones,Electronics,5,80,2024-09-25
+753,Mouse,Electronics,5,20,2025-02-01
+754,Monitor,Electronics,5,150,2025-04-19
+755,Headphones,Electronics,4,80,2024-08-15
+756,Notebook,Stationery,1,5,2025-03-21
+757,Keyboard,Electronics,2,30,2024-06-10
+758,Desk Lamp,Furniture,3,35,2025-01-01
+759,Monitor,Electronics,4,150,2025-05-20
+760,Notebook,Stationery,4,5,2025-02-12
+761,Headphones,Electronics,4,80,2024-07-02
+762,Monitor,Electronics,5,150,2024-09-15
+763,Water Bottle,Accessories,3,10,2025-05-06
+764,Desk Lamp,Furniture,5,35,2024-12-10
+765,Backpack,Accessories,2,45,2025-01-22
+766,Water Bottle,Accessories,3,10,2025-03-07
+767,Backpack,Accessories,3,45,2025-04-09
+768,Desk Lamp,Furniture,2,35,2024-10-05
+769,Pen,Stationery,5,2,2024-10-31
+770,Notebook,Stationery,3,5,2024-10-26
+771,Notebook,Stationery,4,5,2024-11-10
+772,Desk Lamp,Furniture,3,35,2025-03-14
+773,Pen,Stationery,3,2,2024-08-02
+774,Headphones,Electronics,5,80,2024-12-12
+775,Charger,Electronics,3,25,2024-08-14
+776,Pen,Stationery,1,2,2024-10-26
+777,Keyboard,Electronics,3,30,2025-01-13
+778,Pen,Stationery,4,2,2024-09-18
+779,Notebook,Stationery,5,5,2024-10-17
+780,Water Bottle,Accessories,3,10,2024-08-10
+781,Keyboard,Electronics,5,30,2025-03-28
+782,Notebook,Stationery,2,5,2024-06-26
+783,Water Bottle,Accessories,2,10,2025-04-23
+784,Notebook,Stationery,1,5,2024-07-22
+785,Charger,Electronics,3,25,2025-01-28
+786,Keyboard,Electronics,2,30,2024-06-03
+787,Water Bottle,Accessories,2,10,2024-12-26
+788,Desk Lamp,Furniture,4,35,2025-04-30
+789,Notebook,Stationery,3,5,2024-11-12
+790,Pen,Stationery,1,2,2024-07-16
+791,Headphones,Electronics,2,80,2025-03-01
+792,Mouse,Electronics,2,20,2024-12-31
+793,Monitor,Electronics,1,150,2024-12-21
+794,Desk Lamp,Furniture,2,35,2024-10-27
+795,Mouse,Electronics,1,20,2024-10-31
+796,Headphones,Electronics,5,80,2024-07-25
+797,Backpack,Accessories,3,45,2025-01-19
+798,Water Bottle,Accessories,5,10,2025-02-08
+799,Monitor,Electronics,5,150,2025-01-26
+800,Pen,Stationery,2,2,2024-07-28
+801,Backpack,Accessories,2,45,2025-01-21
+802,Pen,Stationery,2,2,2024-06-08
+803,Backpack,Accessories,3,45,2025-03-18
+804,Notebook,Stationery,2,5,2025-04-09
+805,Charger,Electronics,4,25,2025-02-19
+806,Backpack,Accessories,1,45,2024-12-23
+807,Keyboard,Electronics,2,30,2024-08-11
+808,Desk Lamp,Furniture,3,35,2024-10-06
+809,Mouse,Electronics,3,20,2024-12-14
+810,Notebook,Stationery,4,5,2024-10-15
+811,Backpack,Accessories,3,45,2025-03-26
+812,Headphones,Electronics,1,80,2024-10-12
+813,Backpack,Accessories,2,45,2024-07-02
+814,Keyboard,Electronics,4,30,2024-11-05
+815,Monitor,Electronics,4,150,2025-05-18
+816,Water Bottle,Accessories,3,10,2025-05-20
+817,Keyboard,Electronics,3,30,2024-12-06
+818,Headphones,Electronics,2,80,2024-09-21
+819,Monitor,Electronics,4,150,2024-08-18
+820,Desk Lamp,Furniture,5,35,2024-12-09
+821,Charger,Electronics,5,25,2025-01-28
+822,Water Bottle,Accessories,2,10,2024-10-05
+823,Headphones,Electronics,1,80,2025-02-25
+824,Desk Lamp,Furniture,5,35,2025-05-27
+825,Backpack,Accessories,1,45,2025-03-16
+826,Keyboard,Electronics,1,30,2025-03-08
+827,Water Bottle,Accessories,2,10,2025-03-21
+828,Water Bottle,Accessories,2,10,2024-08-24
+829,Backpack,Accessories,5,45,2025-01-13
+830,Keyboard,Electronics,2,30,2025-03-26
+831,Desk Lamp,Furniture,1,35,2025-02-17
+832,Desk Lamp,Furniture,1,35,2025-01-19
+833,Monitor,Electronics,5,150,2024-12-30
+834,Desk Lamp,Furniture,5,35,2024-06-30
+835,Water Bottle,Accessories,4,10,2025-05-11
+836,Pen,Stationery,1,2,2024-12-20
+837,Pen,Stationery,1,2,2024-09-20
+838,Headphones,Electronics,1,80,2024-06-24
+839,Charger,Electronics,3,25,2025-05-25
+840,Keyboard,Electronics,5,30,2024-07-01
+841,Keyboard,Electronics,4,30,2024-06-17
+842,Pen,Stationery,4,2,2024-09-01
+843,Monitor,Electronics,4,150,2024-12-09
+844,Charger,Electronics,4,25,2024-12-11
+845,Charger,Electronics,1,25,2025-05-16
+846,Water Bottle,Accessories,2,10,2025-05-01
+847,Backpack,Accessories,1,45,2024-08-31
+848,Water Bottle,Accessories,4,10,2025-02-26
+849,Monitor,Electronics,2,150,2024-06-02
+850,Mouse,Electronics,3,20,2025-01-24
+851,Water Bottle,Accessories,4,10,2025-02-28
+852,Charger,Electronics,2,25,2024-10-05
+853,Desk Lamp,Furniture,3,35,2024-08-19
+854,Pen,Stationery,2,2,2024-07-28
+855,Mouse,Electronics,4,20,2025-04-11
+856,Mouse,Electronics,2,20,2024-09-14
+857,Keyboard,Electronics,1,30,2025-04-01
+858,Mouse,Electronics,4,20,2025-04-03
+859,Mouse,Electronics,2,20,2024-06-23
+860,Charger,Electronics,4,25,2024-09-28
+861,Water Bottle,Accessories,2,10,2024-06-29
+862,Monitor,Electronics,5,150,2024-10-27
+863,Notebook,Stationery,5,5,2024-11-11
+864,Headphones,Electronics,5,80,2025-05-11
+865,Backpack,Accessories,2,45,2024-11-02
+866,Monitor,Electronics,5,150,2024-09-22
+867,Charger,Electronics,3,25,2024-10-19
+868,Mouse,Electronics,5,20,2025-03-30
+869,Monitor,Electronics,4,150,2025-03-12
+870,Desk Lamp,Furniture,1,35,2024-11-24
+871,Charger,Electronics,5,25,2024-11-11
+872,Charger,Electronics,4,25,2024-08-16
+873,Pen,Stationery,4,2,2024-09-03
+874,Water Bottle,Accessories,4,10,2024-10-02
+875,Notebook,Stationery,3,5,2025-05-29
+876,Monitor,Electronics,4,150,2024-06-30
+877,Water Bottle,Accessories,4,10,2024-12-31
+878,Water Bottle,Accessories,5,10,2024-08-08
+879,Charger,Electronics,2,25,2024-10-09
+880,Notebook,Stationery,3,5,2025-04-28
+881,Keyboard,Electronics,4,30,2024-12-07
+882,Keyboard,Electronics,5,30,2024-09-06
+883,Mouse,Electronics,3,20,2024-12-11
+884,Headphones,Electronics,5,80,2024-06-21
+885,Keyboard,Electronics,2,30,2025-03-28
+886,Water Bottle,Accessories,2,10,2025-02-01
+887,Notebook,Stationery,3,5,2024-11-03
+888,Mouse,Electronics,2,20,2024-09-06
+889,Keyboard,Electronics,4,30,2024-10-03
+890,Headphones,Electronics,2,80,2024-12-21
+891,Notebook,Stationery,5,5,2024-11-12
+892,Pen,Stationery,4,2,2025-01-25
+893,Water Bottle,Accessories,3,10,2024-11-05
+894,Pen,Stationery,3,2,2025-02-18
+895,Desk Lamp,Furniture,4,35,2024-07-21
+896,Desk Lamp,Furniture,3,35,2024-09-13
+897,Backpack,Accessories,3,45,2024-12-29
+898,Mouse,Electronics,5,20,2024-09-22
+899,Monitor,Electronics,1,150,2024-10-12
+900,Water Bottle,Accessories,5,10,2025-03-24
+901,Charger,Electronics,3,25,2024-08-18
+902,Notebook,Stationery,3,5,2024-09-26
+903,Charger,Electronics,5,25,2024-10-04
+904,Desk Lamp,Furniture,5,35,2025-05-02
+905,Backpack,Accessories,3,45,2025-02-06
+906,Desk Lamp,Furniture,4,35,2024-08-26
+907,Backpack,Accessories,2,45,2024-08-11
+908,Water Bottle,Accessories,4,10,2024-09-03
+909,Water Bottle,Accessories,1,10,2025-02-24
+910,Mouse,Electronics,1,20,2025-05-09
+911,Mouse,Electronics,1,20,2024-12-29
+912,Monitor,Electronics,2,150,2024-07-05
+913,Monitor,Electronics,1,150,2024-09-20
+914,Water Bottle,Accessories,4,10,2024-12-09
+915,Mouse,Electronics,5,20,2025-04-23
+916,Headphones,Electronics,4,80,2025-05-04
+917,Desk Lamp,Furniture,1,35,2024-06-04
+918,Water Bottle,Accessories,5,10,2024-12-28
+919,Mouse,Electronics,1,20,2025-02-27
+920,Pen,Stationery,5,2,2024-10-25
+921,Mouse,Electronics,5,20,2025-05-24
+922,Charger,Electronics,2,25,2024-07-25
+923,Keyboard,Electronics,5,30,2024-08-16
+924,Notebook,Stationery,2,5,2025-04-14
+925,Water Bottle,Accessories,3,10,2024-11-29
+926,Pen,Stationery,4,2,2024-07-11
+927,Backpack,Accessories,4,45,2025-01-22
+928,Headphones,Electronics,2,80,2025-05-23
+929,Notebook,Stationery,3,5,2025-05-17
+930,Keyboard,Electronics,1,30,2024-07-18
+931,Charger,Electronics,4,25,2024-12-11
+932,Water Bottle,Accessories,4,10,2024-06-29
+933,Mouse,Electronics,2,20,2024-07-13
+934,Desk Lamp,Furniture,4,35,2025-04-27
+935,Backpack,Accessories,5,45,2024-07-19
+936,Water Bottle,Accessories,1,10,2024-09-26
+937,Notebook,Stationery,5,5,2025-01-30
+938,Pen,Stationery,1,2,2024-07-09
+939,Pen,Stationery,5,2,2025-03-16
+940,Mouse,Electronics,2,20,2024-11-09
+941,Mouse,Electronics,2,20,2025-03-28
+942,Monitor,Electronics,4,150,2024-07-10
+943,Pen,Stationery,2,2,2025-03-16
+944,Notebook,Stationery,5,5,2024-12-17
+945,Water Bottle,Accessories,3,10,2024-12-14
+946,Monitor,Electronics,1,150,2025-02-12
+947,Backpack,Accessories,1,45,2024-07-21
+948,Charger,Electronics,2,25,2024-07-09
+949,Backpack,Accessories,5,45,2025-04-11
+950,Headphones,Electronics,4,80,2024-11-15
+951,Mouse,Electronics,3,20,2025-01-17
+952,Desk Lamp,Furniture,2,35,2024-11-30
+953,Water Bottle,Accessories,4,10,2025-01-08
+954,Monitor,Electronics,5,150,2025-05-05
+955,Charger,Electronics,1,25,2025-04-13
+956,Pen,Stationery,2,2,2024-07-08
+957,Keyboard,Electronics,3,30,2024-08-18
+958,Charger,Electronics,2,25,2024-12-17
+959,Backpack,Accessories,3,45,2024-07-25
+960,Keyboard,Electronics,1,30,2024-11-05
+961,Desk Lamp,Furniture,3,35,2024-10-17
+962,Keyboard,Electronics,2,30,2024-07-15
+963,Monitor,Electronics,4,150,2025-01-16
+964,Water Bottle,Accessories,5,10,2025-02-18
+965,Charger,Electronics,1,25,2024-06-14
+966,Keyboard,Electronics,3,30,2025-03-11
+967,Keyboard,Electronics,5,30,2025-04-03
+968,Backpack,Accessories,4,45,2024-06-07
+969,Pen,Stationery,4,2,2024-12-16
+970,Keyboard,Electronics,5,30,2024-10-03
+971,Headphones,Electronics,5,80,2024-08-26
+972,Charger,Electronics,2,25,2024-08-11
+973,Pen,Stationery,3,2,2024-10-16
+974,Desk Lamp,Furniture,2,35,2024-07-03
+975,Monitor,Electronics,4,150,2024-10-20
+976,Charger,Electronics,3,25,2025-02-03
+977,Keyboard,Electronics,3,30,2024-10-07
+978,Notebook,Stationery,4,5,2025-04-01
+979,Headphones,Electronics,2,80,2025-01-21
+980,Keyboard,Electronics,2,30,2024-11-03
+981,Mouse,Electronics,4,20,2024-11-18
+982,Headphones,Electronics,4,80,2024-11-16
+983,Desk Lamp,Furniture,3,35,2025-01-07
+984,Headphones,Electronics,2,80,2024-11-01
+985,Backpack,Accessories,5,45,2025-05-22
+986,Notebook,Stationery,4,5,2024-11-08
+987,Monitor,Electronics,4,150,2024-11-11
+988,Pen,Stationery,4,2,2025-03-22
+989,Notebook,Stationery,3,5,2024-12-10
+990,Pen,Stationery,4,2,2024-12-04
+991,Keyboard,Electronics,5,30,2024-09-11
+992,Headphones,Electronics,5,80,2024-09-01
+993,Water Bottle,Accessories,1,10,2025-01-23
+994,Notebook,Stationery,4,5,2024-10-28
+995,Keyboard,Electronics,4,30,2025-05-11
+996,Desk Lamp,Furniture,2,35,2025-04-21
+997,Pen,Stationery,2,2,2024-10-08
+998,Monitor,Electronics,4,150,2024-12-11
+999,Keyboard,Electronics,4,30,2025-04-03
+1000,Desk Lamp,Furniture,5,35,2024-12-23
