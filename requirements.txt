@@ -3,3 +3,7 @@ uvicorn
 pandas
 sqlalchemy
 streamlit
+pymysql
+python-multipart
+streamlit
+

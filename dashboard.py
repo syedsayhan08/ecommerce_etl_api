@@ -1,23 +1,36 @@
 import streamlit as st
 import pandas as pd
-import sqlite3
 import plotly.express as px
 from datetime import datetime
+import psycopg2
 
-# Load data from SQLite
+# ✅ Set page config FIRST
+st.set_page_config(page_title="📊 E-Commerce Dashboard", layout="wide")
+
+# PostgreSQL connection
+def get_connection():
+    return psycopg2.connect(
+        host="localhost",
+        port=5432,
+        database="ecommerce",
+        user="postgres",
+        password="root"
+    )
+
+# Load data from PostgreSQL
 @st.cache_data
 def load_data():
-    conn = sqlite3.connect("sales.db")
+    conn = get_connection()
     df = pd.read_sql_query("SELECT * FROM sales", conn)
     conn.close()
     df['date'] = pd.to_datetime(df['date'])
     return df
 
+# Load sales data
 df = load_data()
 
-st.set_page_config(page_title="📊 E-Commerce Dashboard", layout="wide")
+# Dashboard title
 st.title("📊 E-Commerce Sales Dashboard")
-
 st.markdown("Get insights from daily uploaded sales CSV files.")
 
 # Date filter
@@ -38,26 +51,39 @@ with col2:
     total_qty = df["quantity"].sum()
     st.metric("📦 Total Quantity Sold", f"{total_qty:,}")
 
-# Row 2: Revenue Over Time
-fig1 = px.line(df.groupby('date').agg({"quantity": "sum", "price": "mean"}).reset_index(),
-               x="date", y="quantity", title="📈 Quantity Sold Over Time")
+# Row 2: Quantity Over Time
+fig1 = px.line(
+    df.groupby('date').agg({"quantity": "sum"}).reset_index(),
+    x="date", y="quantity", title="📈 Quantity Sold Over Time"
+)
 st.plotly_chart(fig1, use_container_width=True)
 
 # Row 3: Top Products
 top_products = df.groupby("product")["quantity"].sum().nlargest(5).reset_index()
-fig2 = px.bar(top_products, x="product", y="quantity", title="🏆 Top 5 Products by Quantity Sold",
-              color="product", text="quantity")
+fig2 = px.bar(
+    top_products, x="product", y="quantity",
+    title="🏆 Top 5 Products by Quantity Sold",
+    color="product", text="quantity"
+)
 st.plotly_chart(fig2, use_container_width=True)
 
 # Row 4: Sales by Category
-category_sales = df.groupby("category").agg({"quantity": "sum"}).reset_index()
-fig3 = px.pie(category_sales, names="category", values="quantity", title="📊 Sales Distribution by Category")
+category_sales = df.groupby("category")["quantity"].sum().reset_index()
+fig3 = px.pie(
+    category_sales, names="category", values="quantity",
+    title="📊 Sales Distribution by Category"
+)
 st.plotly_chart(fig3, use_container_width=True)
 
 # Row 5: Daily Revenue
 df['revenue'] = df['quantity'] * df['price']
-fig4 = px.area(df, x="date", y="revenue", title="📆 Daily Revenue Trend", color_discrete_sequence=["green"])
+fig4 = px.area(
+    df, x="date", y="revenue",
+    title="📆 Daily Revenue Trend",
+    color_discrete_sequence=["green"]
+)
 st.plotly_chart(fig4, use_container_width=True)
 
+# Footer
 st.markdown("---")
-st.caption("Built with ❤️ using Streamlit and Plotly")
+st.caption("Built with ❤️ using Streamlit, PostgreSQL, and Plotly")
