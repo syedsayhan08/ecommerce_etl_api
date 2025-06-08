@@ -1,91 +1,161 @@
+# 📦 ecommerce_etl_api
 
-# ecommerce_etl_api
+A complete ETL pipeline using **FastAPI**, **SQLite**, and **Streamlit** for visualizing e-commerce sales data.
 
-# Daily ETL Pipeline with FastAPI + SQLite
+---
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```
-your_project/
-│
+ecommerce_etl_api/
 ├── data/
-│   └── sales_data.csv           # Source data file (CSV)
-│
-├── db.py                        # DB models and setup
-├── etl.py                       # ETL logic (extract, transform, load)
-├── etl_job.py                   # Daily runner using while loop + sleep
-├── main.py                      # FastAPI server with API routes
-├── requirements.txt             # Python dependencies
-└── README.md                    # This file
+│   └── sales_data.csv            # Upload your daily CSV here
+├── templates/
+│   └── index.html                # Upload UI
+├── db.py                         # SQLAlchemy models & DB setup
+├── etl.py                        # One-time ETL load
+├── etl_job.py                    # Daily ETL loop (while + sleep)
+├── main.py                       # FastAPI app with API endpoints
+├── dashboard.py                  # Streamlit dashboard
+├── requirements.txt              # Dependencies
+├── README.md                     # You're here
 ```
 
-## Process Flow Diagram
+---
 
-![ETL Process Flow](etl_process_flow.png)
+## 🔄 ETL Process Flow
 
-## Setup Instructions
+```
+Upload CSV → Load with Pandas → Transform (clean) → Load into SQLite → View with FastAPI or Streamlit
+```
 
-1. **Create a virtual environment (optional but recommended)**
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Create Virtual Environment
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-2. **Install dependencies**
+### 2. Install Dependencies
 
 ```bash
-pip install fastapi uvicorn sqlalchemy pandas faker
+pip install -r requirements.txt
 ```
 
-3. **Prepare your data**
+### 3. Prepare Your CSV Data
 
-Place `sales_data.csv` in the `data/` folder.
+Place your daily `sales_data.csv` file inside the `data/` folder.
 
-4. **Run the ETL job manually (one-time)**
+---
+
+## 🚀 Run Components
+
+### 🔁 Run ETL (One-Time)
 
 ```bash
 python etl.py
 ```
 
-5. **Run the ETL job daily using a loop**
+### 🔂 Run Daily ETL with While Loop
 
 ```bash
 python etl_job.py
 ```
 
-6. **Start the FastAPI server**
-
-```bash
-uvicorn main:app --reload
-```
-
-Visit: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
-## API Example (FastAPI)
-
-| Method | Endpoint | Description           |
-|--------|----------|-----------------------|
-| GET    | /sales   | List all sales        |
-| POST   | /sales   | Add a new sale record |
-
-## Running ETL Daily (while loop approach)
-
-Since you are using the `while True` loop in `etl_job.py`:
-
-- Run your ETL job by:
-
-```bash
-python etl_job.py
-```
-
-- **Keep this terminal window open and running.**  
-  If you close it, the script stops and ETL won't run the next day.
-
-- To run the script in the background (Linux/Mac), use:
+To keep it running in background (Linux/Mac):
 
 ```bash
 nohup python etl_job.py &
 ```
 
-This keeps the ETL running even if you close the terminal.
+---
+
+## ⚡ FastAPI Server
+
+### Start FastAPI
+
+```bash
+uvicorn main:app --reload
+```
+
+Go to: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
+### ✨ FastAPI Endpoints
+
+| Method | Endpoint        | Description             |
+|--------|------------------|--------------------------|
+| GET    | `/`              | API welcome message      |
+| GET    | `/total_sales`   | Total revenue            |
+| GET    | `/top_products`  | Top 3 best-selling items |
+| GET    | `/daily_revenue` | Revenue over time        |
+
+---
+
+## 🧾 Upload New CSV via Web Form
+
+Run the FastAPI server and visit:
+
+```
+http://127.0.0.1:8000
+```
+
+Use the form to upload new CSV files each day. The uploaded file will replace the existing one in `data/sales_data.csv`.
+
+---
+
+## 📊 Streamlit Dashboard
+
+### Run the Dashboard
+
+```bash
+streamlit run dashboard.py
+```
+
+### 📈 Included Visuals
+
+1. **💰 Total Revenue & Quantity** – Metric widgets
+2. **📈 Quantity Sold Over Time** – Line Chart
+3. **🏆 Top 5 Products** – Bar Chart
+4. **📊 Sales by Category** – Pie Chart
+5. **📆 Daily Revenue Trend** – Area Chart
+
+### Screenshot
+
+*(Optional: You can add a screenshot of your dashboard here)*
+
+---
+
+## 🧰 Tech Stack
+
+- Python
+- FastAPI
+- SQLite (via SQLAlchemy)
+- Streamlit
+- Pandas
+- Plotly
+- HTML (Jinja for upload form)
+
+---
+
+## ✅ To Do
+
+- [x] Upload daily CSV files
+- [x] Run ETL manually or daily
+- [x] View stats with API
+- [x] Visualize data on dashboard
+
+---
+
+## 💡 Tip
+
+Keep `etl_job.py` running daily to always have the latest data for your dashboard and API.
+
+---
+
+## 👋 Author
+
+Built for academic and portfolio learning.
